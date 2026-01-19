@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/454775cc-e0c3-4a92-a61a-962814f97de4)
 
 <h1 align="center">Hello World, it's Hannah!</h1>
 <h3 align="center">Welcome to my GitHub profile.</h3>
